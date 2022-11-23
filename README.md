@@ -18,8 +18,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eldiankyo&show_icons=true&theme=synthwave&hide_border=true&hide_title=true)
 
-![](https://placehold.co/495x48/2b213a/dddddd?text=Pixel+art+|+VR+|+Kubuntu+Linux)
-  
-### :space_invader:
-
 </div>

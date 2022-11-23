@@ -2,9 +2,11 @@
   
 ### :alien:
   
-![](https://placehold.co/495x48/2b213a/dddddd?text=Hi,+I'm+Daniel)
+![](https://placehold.co/495x48/2b213a/dddddd?text=Hi,+I'm+Daniel!)
   
 ![](https://placehold.co/495x48/2b213a/e4289d?text=Software+Developer,+living+in+Iceland)
+  
+![](https://placehold.co/495x48/2b213a/dddddd?text=Technologies:)
 
 <img alt="C++" src="https://img.shields.io/badge/C++%20-%2314354C.svg?&color=00599C&style=for-the-badge&logo=cplusplus&logoColor=white"/><img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%2314354C.svg?&color=F7DF1E&style=for-the-badge&logo=javascript&logoColor=white"/><img alt="NodeJS" src="https://img.shields.io/badge/Node.JS%20-%2314354C.svg?&color=339933&style=for-the-badge&logo=nodedotjs&logoColor=white"/><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?&color=3776AB&style=for-the-badge&logo=python&logoColor=white"/><img alt="html5" src="https://img.shields.io/badge/html5%20-%2314354C.svg?&color=E34F26&style=for-the-badge&logo=html5&logoColor=white"/>
 
